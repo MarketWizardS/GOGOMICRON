@@ -1,0 +1,2 @@
+# GOGOMICRON
+情緒分析
